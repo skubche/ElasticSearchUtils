@@ -10,7 +10,11 @@ namespace ConsoleApplication1
 	{
 		static void Main(string[] args)
 		{
+<<<<<<< HEAD
 			Console.WriteLine('d'); ;
+=======
+			Console.WriteLine();
+>>>>>>> 3144d580058cda11057e4a501faf671dd8c21b99
 		}
 	}
 }
