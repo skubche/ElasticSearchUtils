@@ -10,7 +10,6 @@ namespace GitApplication
 	{
 		static void Main(string[] args)
 		{
-			
 			Console.WriteLine("qqq");
 		}
 	}
