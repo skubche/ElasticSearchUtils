@@ -10,7 +10,11 @@ namespace GitApplication
 	{
 		static void Main(string[] args)
 		{
+<<<<<<< HEAD
 			Console.WriteLine("1qq");
+=======
+			Console.WriteLine("qqq");
+>>>>>>> origin/master
 		}
 	}
 }
